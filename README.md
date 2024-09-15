@@ -1,4 +1,6 @@
 # Bounce Ball Game
 This project is a Bounce Ball Game similar to Bounce-Classic the mobile game.
 
-This game was built using Macromedia Flash 8 as a part of my game development project in college. Its a simple game prototype with some fun features which can be worked on and refined to perfect it. Designing the game window, setting frames, coding the blocks and ball movement was how this was developed.
+(i) Abstract :- This Bounce Ball Game, created with Macromedia Flash 8, is a prototype inspired by the Bounce-Classic mobile game. Developed as part of a college project, it features basic gameplay with room for refinement. The project involves designing the game window, setting frames, and coding ball and block movements, offering a foundation for further development.
+
+(ii). Design :-The Bounce Ball Game, developed in Macromedia Flash 8, features a straightforward design with a game window displaying a ball and interactive blocks. The gameplay centers around maneuvering the ball to bounce off blocks, with the goal of clearing or navigating around obstacles. The design includes an animated ball and static or dynamic blocks, with movement and interactions coded to create a basic yet functional experience. This simple prototype serves as a foundation for further refinement and additional features.
